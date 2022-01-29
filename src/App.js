@@ -1,6 +1,7 @@
 import "./App.css";
 
 import Icons from "./components/Icons";
+import ModalComponent from "./components/ModalComponent";
 import ToastNotifications from "./components/ToastNotifications";
 
 
@@ -12,10 +13,13 @@ function App() {
       <div className="App">
 
         {/* 1 - Icons */}
-        <Icons />
+        {/* <Icons /> */}
 
         {/* 2 - Toast Notifications */}
-        <ToastNotifications />
+        {/* <ToastNotifications /> */}
+
+        {/* 3 - Modal */}
+        <ModalComponent />
         
       </div>
 

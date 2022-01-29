@@ -41,3 +41,9 @@
     - https://www.npmjs.com/package/react-toastify
 
     - https://fkhadra.github.io/react-toastify/introduction/
+
+3. Modal:
+
+    - https://www.npmjs.com/package/react-modal
+
+    - http://reactcommunity.org/react-modal/
