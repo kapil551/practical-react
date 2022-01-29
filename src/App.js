@@ -2,6 +2,7 @@ import "./App.css";
 import ColorPickerComponent from "./components/ColorPickerComponent";
 import CountUpComponent from "./components/CountUpComponent";
 import CreditCardComponent from "./components/CreditCardComponent";
+import DatePickerComponent from "./components/DatePickerComponent";
 
 import Icons from "./components/Icons";
 import IdleTimerContainer from "./components/IdleTimerContainer";
@@ -39,8 +40,11 @@ function App() {
         {/* <ColorPickerComponent /> */}
 
         {/* 8 - Credit Card */}
-        <CreditCardComponent />
+        {/* <CreditCardComponent /> */}
 
+        {/* 9 - Date Picker */}
+        <DatePickerComponent />
+        
       </div>
 
       

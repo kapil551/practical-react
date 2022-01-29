@@ -86,3 +86,11 @@
 
     - https://ovvwzkzry9.codesandbox.io/
 
+9. Date Picker:
+
+    - https://www.npmjs.com/package/react-datepicker
+
+    - https://github.com/Hacker0x01/react-datepicker
+
+    - https://reactdatepicker.com/
+
