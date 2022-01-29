@@ -1,4 +1,5 @@
 import "./App.css";
+import ChartsComponent from "./components/ChartsComponent";
 import ColorPickerComponent from "./components/ColorPickerComponent";
 import CountUpComponent from "./components/CountUpComponent";
 import CreditCardComponent from "./components/CreditCardComponent";
@@ -55,7 +56,10 @@ function App() {
         {/* <VideoPlayerComponent /> */}
 
         {/* 12 - Loading Indicators */}
-        <LoadingIndicatorsComponent />
+        {/* <LoadingIndicatorsComponent /> */}
+
+        {/* 13 - Charts */}
+        <ChartsComponent />
         
       </div>
 

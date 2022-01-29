@@ -117,3 +117,10 @@
 
     - https://www.davidhu.io/react-spinners/
 
+13. Charts:
+
+    - https://www.npmjs.com/package/react-chartjs-2
+
+    - https://github.com/reactchartjs/react-chartjs-2
+
+    - https://react-chartjs-2.js.org/
