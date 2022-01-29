@@ -64,3 +64,9 @@
 
     - https://tr8tk.csb.app/
 
+6. Idle Timer:
+
+    - Implement a session timeout in a react application.
+
+    - We want the user to be logged out if they are idle for let's say 15 minutes.
+

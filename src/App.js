@@ -2,6 +2,7 @@ import "./App.css";
 import CountUpComponent from "./components/CountUpComponent";
 
 import Icons from "./components/Icons";
+import IdleTimerContainer from "./components/IdleTimerContainer";
 import ModalComponent from "./components/ModalComponent";
 import ToastNotifications from "./components/ToastNotifications";
 import Tooltip from "./components/Tooltip";
@@ -27,7 +28,10 @@ function App() {
         {/* <Tooltip /> */}
 
         {/* 5 - Countup */}
-        <CountUpComponent />
+        {/* <CountUpComponent /> */}
+
+        {/* 6 - Idle Timer */}
+        <IdleTimerContainer />
 
       </div>
 
