@@ -94,3 +94,18 @@
 
     - https://reactdatepicker.com/
 
+10. Presentation Deck:
+
+    - https://www.npmjs.com/package/mdx-deck
+
+    - https://github.com/jxnblk/mdx-deck
+
+
+11. Video Player:
+
+    - https://www.npmjs.com/package/react-player
+
+    - https://github.com/CookPete/react-player
+
+    - https://cookpete.com/react-player/
+

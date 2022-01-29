@@ -7,8 +7,10 @@ import DatePickerComponent from "./components/DatePickerComponent";
 import Icons from "./components/Icons";
 import IdleTimerContainer from "./components/IdleTimerContainer";
 import ModalComponent from "./components/ModalComponent";
+import PresentationDeck from "./components/PresentationDeck";
 import ToastNotifications from "./components/ToastNotifications";
 import Tooltip from "./components/Tooltip";
+import VideoPlayerComponent from "./components/VideoPlayerComponent";
 
 
 function App() {
@@ -43,7 +45,13 @@ function App() {
         {/* <CreditCardComponent /> */}
 
         {/* 9 - Date Picker */}
-        <DatePickerComponent />
+        {/* <DatePickerComponent /> */}
+
+        {/* 10 - Presentation Deck */}
+        {/* <PresentationDeck /> */}
+
+        {/* 11 - Video Player */}
+        <VideoPlayerComponent />
         
       </div>
 
