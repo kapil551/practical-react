@@ -109,3 +109,11 @@
 
     - https://cookpete.com/react-player/
 
+12. Loading Indicators:
+
+    - https://www.npmjs.com/package/react-spinners
+
+    - https://github.com/davidhu2000/react-spinners
+
+    - https://www.davidhu.io/react-spinners/
+

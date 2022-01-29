@@ -6,6 +6,7 @@ import DatePickerComponent from "./components/DatePickerComponent";
 
 import Icons from "./components/Icons";
 import IdleTimerContainer from "./components/IdleTimerContainer";
+import LoadingIndicatorsComponent from "./components/LoadingIndicatorsComponent";
 import ModalComponent from "./components/ModalComponent";
 import PresentationDeck from "./components/PresentationDeck";
 import ToastNotifications from "./components/ToastNotifications";
@@ -51,7 +52,10 @@ function App() {
         {/* <PresentationDeck /> */}
 
         {/* 11 - Video Player */}
-        <VideoPlayerComponent />
+        {/* <VideoPlayerComponent /> */}
+
+        {/* 12 - Loading Indicators */}
+        <LoadingIndicatorsComponent />
         
       </div>
 
