@@ -1,4 +1,5 @@
 import "./App.css";
+import ColorPickerComponent from "./components/ColorPickerComponent";
 import CountUpComponent from "./components/CountUpComponent";
 
 import Icons from "./components/Icons";
@@ -31,7 +32,10 @@ function App() {
         {/* <CountUpComponent /> */}
 
         {/* 6 - Idle Timer */}
-        <IdleTimerContainer />
+        {/* <IdleTimerContainer /> */}
+
+        {/* 7 - Color Picker */}
+        <ColorPickerComponent />
 
       </div>
 

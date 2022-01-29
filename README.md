@@ -70,3 +70,11 @@
 
     - We want the user to be logged out if they are idle for let's say 15 minutes.
 
+7. Color Picker:
+
+    - https://www.npmjs.com/package/react-color
+
+    - https://github.com/casesandberg/react-color
+
+    - http://casesandberg.github.io/react-color/
+
