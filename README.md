@@ -47,3 +47,12 @@
     - https://www.npmjs.com/package/react-modal
 
     - http://reactcommunity.org/react-modal/
+
+4. Tooltip:
+
+    - https://www.npmjs.com/package/@tippyjs/react
+
+    - https://github.com/atomiks/tippyjs-react
+    
+    - https://atomiks.github.io/tippyjs/
+

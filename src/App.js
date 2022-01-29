@@ -3,6 +3,7 @@ import "./App.css";
 import Icons from "./components/Icons";
 import ModalComponent from "./components/ModalComponent";
 import ToastNotifications from "./components/ToastNotifications";
+import Tooltip from "./components/Tooltip";
 
 
 function App() {
@@ -19,7 +20,11 @@ function App() {
         {/* <ToastNotifications /> */}
 
         {/* 3 - Modal */}
-        <ModalComponent />
+        {/* <ModalComponent /> */}
+
+        {/* 4 - Tooltip */}
+        <Tooltip />
+
         
       </div>
 
