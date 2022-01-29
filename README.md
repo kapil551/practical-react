@@ -35,3 +35,9 @@
     - https://github.com/react-icons/react-icons
 
     - https://react-icons.github.io/react-icons/
+
+2. Toast Notifications:
+
+    - https://www.npmjs.com/package/react-toastify
+
+    - https://fkhadra.github.io/react-toastify/introduction/

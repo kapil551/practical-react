@@ -1,10 +1,8 @@
 import "./App.css";
 
-import { FaReact } from "react-icons/fa";
+import Icons from "./components/Icons";
+import ToastNotifications from "./components/ToastNotifications";
 
-import { MdAccountBalance, MdAlarm } from "react-icons/md";
-
-import { IconContext } from "react-icons";
 
 function App() {
   return (
@@ -12,29 +10,16 @@ function App() {
     <>
 
       <div className="App">
-        <FaReact />
-        <FaReact color="purple" />
-        <FaReact size="10rem" color="blue" />
 
-        <MdAlarm />
-        <MdAlarm color="red" size="15rem" />
+        {/* 1 - Icons */}
+        <Icons />
+
+        {/* 2 - Toast Notifications */}
+        <ToastNotifications />
+        
       </div>
 
-      {/* Adding common styling to multiple icons using IconContext.Provider component */}
-      <IconContext.Provider value={{ color: 'green', size: '5rem' }}>
-        <div className="App">
-          <FaReact />
-          <FaReact />
-          <FaReact />
-
-          <MdAlarm />
-          <MdAccountBalance />
-
-          {/* Inline styling has higher precedence */}
-          <MdAccountBalance color="brown" size="10rem" />
-
-        </div>
-      </IconContext.Provider>
+      
 
     </>
   );
