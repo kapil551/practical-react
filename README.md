@@ -53,6 +53,14 @@
     - https://www.npmjs.com/package/@tippyjs/react
 
     - https://github.com/atomiks/tippyjs-react
-    
+
     - https://atomiks.github.io/tippyjs/
+
+5. Countup:
+
+    - https://www.npmjs.com/package/react-countup
+
+    - https://github.com/glennreyes/react-countup
+
+    - https://tr8tk.csb.app/
 

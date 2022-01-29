@@ -1,4 +1,5 @@
 import "./App.css";
+import CountUpComponent from "./components/CountUpComponent";
 
 import Icons from "./components/Icons";
 import ModalComponent from "./components/ModalComponent";
@@ -23,9 +24,11 @@ function App() {
         {/* <ModalComponent /> */}
 
         {/* 4 - Tooltip */}
-        <Tooltip />
+        {/* <Tooltip /> */}
 
-        
+        {/* 5 - Countup */}
+        <CountUpComponent />
+
       </div>
 
       
