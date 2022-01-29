@@ -78,3 +78,11 @@
 
     - http://casesandberg.github.io/react-color/
 
+8. Credit Cards:
+
+    - https://www.npmjs.com/package/react-credit-cards
+
+    - https://github.com/amaroteam/react-credit-cards
+
+    - https://ovvwzkzry9.codesandbox.io/
+

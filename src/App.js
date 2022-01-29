@@ -1,6 +1,7 @@
 import "./App.css";
 import ColorPickerComponent from "./components/ColorPickerComponent";
 import CountUpComponent from "./components/CountUpComponent";
+import CreditCardComponent from "./components/CreditCardComponent";
 
 import Icons from "./components/Icons";
 import IdleTimerContainer from "./components/IdleTimerContainer";
@@ -35,7 +36,10 @@ function App() {
         {/* <IdleTimerContainer /> */}
 
         {/* 7 - Color Picker */}
-        <ColorPickerComponent />
+        {/* <ColorPickerComponent /> */}
+
+        {/* 8 - Credit Card */}
+        <CreditCardComponent />
 
       </div>
 
